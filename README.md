@@ -36,7 +36,11 @@ These projects explore core digital design principles such as:
 | 12 | **Lab 12 – Square Test Pattern Generator** | Generates video test patterns for VGA display testing. |
 | — | **SP25 Midterm Exam 1** | Practical midterm covering digital logic fundamentals and system design. |
 | — | **SP25 Midterm Exam 2** | Advanced HDL implementation with modular design principles. |
-| — | **SP25 Final Project** | Comprehensive FPGA system integrating multiple subsystems for real-time control and display. |
+| — | **SP25 Final Project** | Comprehensive FPGA system integrating multiple subsystems for real-time control and display. 
+The fully documented, production-style version of the final project lives here:  
+**[Vivado Final Project – Salam-Hasaniya/vivado-final-project](https://github.com/Salam-Hasaniya/vivado-final-project)**
+
+|
 
 ---
 

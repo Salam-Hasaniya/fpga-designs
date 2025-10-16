@@ -1,4 +1,4 @@
-#ECE 4310 / Vivado Projects  
+# ECE 4310 / Vivado Projects  
 ### by Salam Hasaniya  
 
 This repository contains all of my **FPGA design and hardware description language (HDL)** work completed throughout the **Vivado-based digital systems course** at Cal Poly Pomona.  
@@ -6,7 +6,7 @@ Each lab focuses on learning a new concept in **Verilog**, **hardware interfacin
 
 ---
 
-##Overview
+## Overview
 These projects explore core digital design principles such as:
 - Combinational and sequential logic design  
 - Timing control and clock division  
@@ -18,7 +18,7 @@ These projects explore core digital design principles such as:
 
 ---
 
-##Project List
+## Project List
 
 | # | Project Title | Description |
 |:-:|----------------|-------------|
@@ -40,7 +40,7 @@ These projects explore core digital design principles such as:
 
 ---
 
-##Tools & Environment
+## Tools & Environment
 - **Vivado Design Suite** (Xilinx)
 - **Nexys A7 FPGA Board**
 - **Verilog HDL**
@@ -48,7 +48,7 @@ These projects explore core digital design principles such as:
 
 ---
 
-##Notes
+## Notes
 Each lab folder contains:
 - Source files (`.v`, `.xdc`)  
 - Testbench and simulation files  
@@ -57,7 +57,7 @@ Each lab folder contains:
 
 ---
 
-##About
+## About
 This repository showcases my progression in FPGA design and embedded digital systems.  
 It reflects the practical side of **hardware-software integration**, preparing for future work in **embedded systems, digital logic design, and SoC development.**
 
